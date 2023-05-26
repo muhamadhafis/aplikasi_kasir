@@ -1,0 +1,44 @@
+D:\xpplg1-muhmadhafis\Visual Studio\Aplikasi kasir\Aplikasi kasir\bin\Debug\Aplikasi kasir.exe.config
+D:\xpplg1-muhmadhafis\Visual Studio\3 Aplikasi kasir\Aplikasi kasir\bin\Debug\Aplikasi kasir.exe.config
+D:\xpplg1-muhmadhafis\Visual Studio\3 Aplikasi kasir\Aplikasi kasir\bin\Debug\Aplikasi kasir.exe
+D:\xpplg1-muhmadhafis\Visual Studio\3 Aplikasi kasir\Aplikasi kasir\bin\Debug\Aplikasi kasir.pdb
+D:\xpplg1-muhmadhafis\Visual Studio\3 Aplikasi kasir\Aplikasi kasir\obj\Debug\Aplikasi kasir.csprojResolveAssemblyReference.cache
+D:\xpplg1-muhmadhafis\Visual Studio\3 Aplikasi kasir\Aplikasi kasir\obj\Debug\Aplikasi_kasir.FormLogin.resources
+D:\xpplg1-muhmadhafis\Visual Studio\3 Aplikasi kasir\Aplikasi kasir\obj\Debug\Aplikasi_kasir.FormMenuUtama.resources
+D:\xpplg1-muhmadhafis\Visual Studio\3 Aplikasi kasir\Aplikasi kasir\obj\Debug\Aplikasi_kasir.Properties.Resources.resources
+D:\xpplg1-muhmadhafis\Visual Studio\3 Aplikasi kasir\Aplikasi kasir\obj\Debug\Aplikasi kasir.csproj.GenerateResource.Cache
+D:\xpplg1-muhmadhafis\Visual Studio\3 Aplikasi kasir\Aplikasi kasir\obj\Debug\Aplikasi kasir.exe
+D:\xpplg1-muhmadhafis\Visual Studio\3 Aplikasi kasir\Aplikasi kasir\obj\Debug\Aplikasi kasir.pdb
+G:\ \F G\Flashdrive\Personal\0. Dokumen\Visual Studio\3 Aplikasi kasir\Aplikasi kasir\bin\Debug\Aplikasi kasir.exe.config
+G:\ \F G\Flashdrive\Personal\0. Dokumen\Visual Studio\3 Aplikasi kasir\Aplikasi kasir\obj\Debug\Aplikasi kasir.exe
+G:\ \F G\Flashdrive\Personal\0. Dokumen\Visual Studio\3 Aplikasi kasir\Aplikasi kasir\obj\Debug\Aplikasi kasir.pdb
+G:\ \F G\Flashdrive\Personal\0. Dokumen\Visual Studio\3 Aplikasi kasir\Aplikasi kasir\bin\Debug\Aplikasi kasir.exe
+G:\ \F G\Flashdrive\Personal\0. Dokumen\Visual Studio\3 Aplikasi kasir\Aplikasi kasir\bin\Debug\Aplikasi kasir.pdb
+G:\ \F G\Flashdrive\Personal\0. Dokumen\Visual Studio\3 Aplikasi kasir\Aplikasi kasir\obj\Debug\Aplikasi kasir.csprojResolveAssemblyReference.cache
+G:\ \F G\Flashdrive\Personal\0. Dokumen\Visual Studio\3 Aplikasi kasir\Aplikasi kasir\obj\Debug\Aplikasi_kasir.FormLogin.resources
+G:\ \F G\Flashdrive\Personal\0. Dokumen\Visual Studio\3 Aplikasi kasir\Aplikasi kasir\obj\Debug\Aplikasi_kasir.FormMenuUtama.resources
+G:\ \F G\Flashdrive\Personal\0. Dokumen\Visual Studio\3 Aplikasi kasir\Aplikasi kasir\obj\Debug\Aplikasi_kasir.Properties.Resources.resources
+G:\ \F G\Flashdrive\Personal\0. Dokumen\Visual Studio\3 Aplikasi kasir\Aplikasi kasir\obj\Debug\Aplikasi kasir.csproj.GenerateResource.Cache
+D:\xpplg1-muhmadhafis\Visual Studio\3 Aplikasi kasir pt4\Aplikasi kasir\bin\Debug\Aplikasi kasir.exe.config
+D:\xpplg1-muhmadhafis\Visual Studio\3 Aplikasi kasir pt4\Aplikasi kasir\obj\Debug\Aplikasi kasir.exe
+D:\xpplg1-muhmadhafis\Visual Studio\3 Aplikasi kasir pt4\Aplikasi kasir\obj\Debug\Aplikasi kasir.pdb
+D:\xpplg1-muhmadhafis\Visual Studio\3 Aplikasi kasir pt4\Aplikasi kasir\obj\Debug\Aplikasi kasir.csprojResolveAssemblyReference.cache
+D:\xpplg1-muhmadhafis\Visual Studio\3 Aplikasi kasir pt4\Aplikasi kasir\obj\Debug\Aplikasi_kasir.FormLogin.resources
+D:\xpplg1-muhmadhafis\Visual Studio\3 Aplikasi kasir pt4\Aplikasi kasir\obj\Debug\Aplikasi_kasir.FormMasterKasir.resources
+D:\xpplg1-muhmadhafis\Visual Studio\3 Aplikasi kasir pt4\Aplikasi kasir\obj\Debug\Aplikasi_kasir.FormMenuUtama.resources
+D:\xpplg1-muhmadhafis\Visual Studio\3 Aplikasi kasir pt4\Aplikasi kasir\obj\Debug\Aplikasi_kasir.Properties.Resources.resources
+D:\xpplg1-muhmadhafis\Visual Studio\3 Aplikasi kasir pt4\Aplikasi kasir\obj\Debug\Aplikasi kasir.csproj.GenerateResource.Cache
+D:\xpplg1-muhmadhafis\Visual Studio\3 Aplikasi kasir pt4\Aplikasi kasir\bin\Debug\Aplikasi kasir.exe
+D:\xpplg1-muhmadhafis\Visual Studio\3 Aplikasi kasir pt4\Aplikasi kasir\bin\Debug\Aplikasi kasir.pdb
+G:\ \F G\Flashdrive\Personal\0. Dokumen\Visual Studio\3 Aplikasi kasir pt4\Aplikasi kasir\bin\Debug\Aplikasi kasir.exe.config
+G:\ \F G\Flashdrive\Personal\0. Dokumen\Visual Studio\3 Aplikasi kasir pt4\Aplikasi kasir\obj\Debug\Aplikasi kasir.exe
+G:\ \F G\Flashdrive\Personal\0. Dokumen\Visual Studio\3 Aplikasi kasir pt4\Aplikasi kasir\obj\Debug\Aplikasi kasir.pdb
+G:\ \F G\Flashdrive\Personal\0. Dokumen\Visual Studio\3 Aplikasi kasir pt4\Aplikasi kasir\obj\Debug\Aplikasi kasir.csprojResolveAssemblyReference.cache
+G:\ \F G\Flashdrive\Personal\0. Dokumen\Visual Studio\3 Aplikasi kasir pt4\Aplikasi kasir\obj\Debug\Aplikasi_kasir.FormLogin.resources
+G:\ \F G\Flashdrive\Personal\0. Dokumen\Visual Studio\3 Aplikasi kasir pt4\Aplikasi kasir\obj\Debug\Aplikasi_kasir.FormMasterKasir.resources
+G:\ \F G\Flashdrive\Personal\0. Dokumen\Visual Studio\3 Aplikasi kasir pt4\Aplikasi kasir\obj\Debug\Aplikasi_kasir.FormMenuUtama.resources
+G:\ \F G\Flashdrive\Personal\0. Dokumen\Visual Studio\3 Aplikasi kasir pt4\Aplikasi kasir\obj\Debug\Aplikasi_kasir.Properties.Resources.resources
+G:\ \F G\Flashdrive\Personal\0. Dokumen\Visual Studio\3 Aplikasi kasir pt4\Aplikasi kasir\obj\Debug\Aplikasi kasir.csproj.GenerateResource.Cache
+G:\ \F G\Flashdrive\Personal\0. Dokumen\Visual Studio\3 Aplikasi kasir pt4\Aplikasi kasir\bin\Debug\Aplikasi kasir.exe
+G:\ \F G\Flashdrive\Personal\0. Dokumen\Visual Studio\3 Aplikasi kasir pt4\Aplikasi kasir\bin\Debug\Aplikasi kasir.pdb
+G:\ \F G\Flashdrive\Personal\0. Dokumen\Visual Studio\3 Aplikasi kasir pt4\Aplikasi kasir\obj\Debug\Aplikasi_kasir.FormMasterBarang.resources
